@@ -1,6 +1,6 @@
 # npmtest-clarinet
 
-#### test coverage for  [clarinet (v0.11.0)](https://github.com/dscape/clarinet)  [![npm package](https://img.shields.io/npm/v/npmtest-clarinet.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clarinet) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clarinet.svg)](https://travis-ci.org/npmtest/node-npmtest-clarinet)
+#### basic test coverage for  [clarinet (v0.11.0)](https://github.com/dscape/clarinet)  [![npm package](https://img.shields.io/npm/v/npmtest-clarinet.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clarinet) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clarinet.svg)](https://travis-ci.org/npmtest/node-npmtest-clarinet)
 
 #### SAX based evented streaming JSON parser in JavaScript (browser and node)
 
